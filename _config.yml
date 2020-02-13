@@ -2,7 +2,7 @@ title: "#MuthuPandian"
 description: Muthu Git
 google_analytics: 
 show_downloads: true
-theme: jekyll-theme-hacker
+theme: jekyll-theme-minimal
 
 gems:
   - jekyll-mentions
