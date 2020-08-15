@@ -1,3 +1,25 @@
 site_name: muthu
+copyright: "Copyright &copy; 2020 Muthupandian Thangarajan"
 theme:
   name: material
+  include_sidebar: true
+  feature:
+    tabs: true
+  # palette:
+  #   primary: 'cyan'
+  #   accent: 'cyan'
+markdown_extensions:
+  - attr_list
+  - admonition
+  - footnotes
+  - pymdownx.details
+  - pymdownx.inlinehilite
+  - pymdownx.highlight:
+      use_pygments: false
+  - pymdownx.smartsymbols
+  - pymdownx.superfences
+  - pymdownx.tasklist
+  - pymdownx.snippets:
+      check_paths: true
+  - toc:
+      permalink: true
