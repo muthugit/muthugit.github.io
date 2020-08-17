@@ -9,13 +9,34 @@ My goal is to build strong `backend` system and create beautiful `frontend` syst
 ---
 
 ## techonologies worked
+
+### programming_languages
 - [x] Python
+- [x] JAVA
+- [x] PHP
+- [x] NodeJS
+
+### frameworks
+- [x] ATG
+- [x] Ionic
+- [x] Codeigniter
+- [x] Angular
+
+### tools
+- [x] Adobe XD
 - [x] CDAP
 - [x] Dagster
+- [x] CorelDraw
+- [x] Photoshop
+- [x] Illustrator
+
+### documentaton_tools
+- [x] Sphinx
+- [x] Mkdocs
 
 ---
 
-## interests
+## other_interests
 - [x] Print media Graphic Designing
 - [x] Training Freshers
 
@@ -27,5 +48,5 @@ My goal is to build strong `backend` system and create beautiful `frontend` syst
     ```
     Name    : Muthupandian Thangarajan
     Email   : contact@muthupandian.in / base.muthupandian@gmail.com
-    Mobile  : +91-9843-665267
+    Mobile  : +91-98436-65267
     ```
