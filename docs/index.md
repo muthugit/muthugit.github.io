@@ -4,14 +4,14 @@
 
 {==
 
-I am a `Full Stack Software Engineer` based in Madurai, India, specializing in building applications for the Industries.
+:wave: I am a `Full Stack Software Engineer` based in Madurai, India, specializing in building applications for the Industries. Good experience on major :cloud: platforms
 
 ==}
 
 My goal is to build strong {==`backend`==} system and create beautiful {==`frontend`==} system with aggressive {==`project_management`==} & {==`team_management`==} that provides fast, secure and clean products.
 
 ---
-## contact me
+## :mailbox_closed: contact me
 
 !!! note ""
     ```
@@ -22,7 +22,7 @@ My goal is to build strong {==`backend`==} system and create beautiful {==`front
 
 ---
 
-## techonologies worked
+## :hammer: techonologies worked
 
 ### programming_languages
 - [x] Python
