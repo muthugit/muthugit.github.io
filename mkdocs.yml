@@ -4,6 +4,8 @@ theme:
   name: material
   features:
     - tabs
+  feature:
+    tabs: true
 extra_css: [doc.css]
 markdown_extensions:
   - markdown.extensions.admonition
