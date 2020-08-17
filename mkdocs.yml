@@ -2,8 +2,8 @@ site_name: muthu
 copyright: "Copyright &copy; 2020 Muthupandian Thangarajan"
 theme:
   name: material
-  feature:
-    tabs: true
+  features:
+    - tabs
 extra_css: [doc.css]
 markdown_extensions:
   - markdown.extensions.admonition
