@@ -4,7 +4,7 @@ theme:
   name: material
   # font:
   #   code: Roboto
-  include_sidebar: true
+  # include_sidebar: true
   feature:
     tabs: true
   # palette:
