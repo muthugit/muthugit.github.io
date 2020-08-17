@@ -2,9 +2,23 @@
 !!! summary "current_position"
     *Director of Technology* at [Whirldata Inc.,](https://whirldatascience.com)
 
+{==
+
 I am a `Full Stack Software Engineer` based in Madurai, India, specializing in building applications for the Industries.
 
-My goal is to build strong `backend` system and create beautiful `frontend` system with aggressive `project_management` & `team_management` that provides fast, secure and clean products.
+==}
+
+My goal is to build strong {==`backend`==} system and create beautiful {==`frontend`==} system with aggressive {==`project_management`==} & {==`team_management`==} that provides fast, secure and clean products.
+
+---
+## contact me
+
+!!! note ""
+    ```
+    Name    : Muthupandian Thangarajan
+    Email   : contact@muthupandian.in / base.muthupandian@gmail.com
+    Mobile  : +91-98436-65267
+    ```
 
 ---
 
@@ -16,16 +30,22 @@ My goal is to build strong `backend` system and create beautiful `frontend` syst
 - [x] PHP
 - [x] NodeJS
 
+### workflow_engines
+- [x] CDAP
+- [x] Dagster
+- [x] Airflow
+
+
+
 ### frameworks
 - [x] ATG
 - [x] Ionic
 - [x] Codeigniter
 - [x] Angular
 
-### tools
+
+### ui_ux_tools
 - [x] Adobe XD
-- [x] CDAP
-- [x] Dagster
 - [x] CorelDraw
 - [x] Photoshop
 - [x] Illustrator
@@ -40,13 +60,3 @@ My goal is to build strong `backend` system and create beautiful `frontend` syst
 - [x] Print media Graphic Designing
 - [x] Training Freshers
 
----
-
-## contact me
-
-!!! note ""
-    ```
-    Name    : Muthupandian Thangarajan
-    Email   : contact@muthupandian.in / base.muthupandian@gmail.com
-    Mobile  : +91-98436-65267
-    ```
