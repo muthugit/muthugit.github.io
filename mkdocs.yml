@@ -2,15 +2,16 @@ site_name: muthu
 copyright: "Copyright &copy; 2020 Muthupandian Thangarajan"
 theme:
   name: material
-  palette:
-    primary: yellow
-    accent: indigo
+  # palette:
+  #   primary: yellow
+  #   accent: indigo
   features:
     - tabs
   feature:
     tabs: true
 extra_css:
   - doc.css
+  # - dark-theme.css
   - https://unpkg.com/mermaid@7.1.2/dist/mermaid.css
 extra_javascript:
   - https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js
