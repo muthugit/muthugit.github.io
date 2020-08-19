@@ -10,6 +10,9 @@
 
 My goal is to build strong {==`backend`==} system and create beautiful {==`frontend`==} system with aggressive {==`project_management`==} & {==`team_management`==} that provides fast, secure and clean products.
 
+[Download resume](http://bit.ly/muthuResumePDF){: .md-button }
+<!-- [Subscribe to our mailing list](#){: .md-button } -->
+
 ---
 ## :mailbox_closed: contact me
 
