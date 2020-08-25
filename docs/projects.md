@@ -182,6 +182,8 @@ Technology Stack
 - PHP
 - Python
 
+[Youtube Video](https://www.youtube.com/watch?v=uTqoo3JimZs)
+
 ---
 
 ### AptEngine – The product recommendation engine extension for Magento
