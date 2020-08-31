@@ -15,6 +15,7 @@ extra_css:
   - https://unpkg.com/mermaid@7.1.2/dist/mermaid.css
 extra_javascript:
   - https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js
+google_analytics: ['UA-60832787-1', 'muthupandian.in']
 markdown_extensions:
   - markdown.extensions.admonition
   - markdown.extensions.attr_list
