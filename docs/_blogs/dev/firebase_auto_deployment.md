@@ -3,24 +3,31 @@ title: Steps to auto Firebase deployment using GITHUB Actions (CI/CD)
 description: Firebase deployment
 ---
 
-Step #1
-Create a GITHUB repository
+# :octicons-plug-24: Steps to auto Firebase deployment using GITHUB Actions (CI/CD)
 
-Step #2
-Create a Firebase Project on the Firebase console
+## Create a GITHUB repository
 
-Step #3
+## Create a Firebase Project on the Firebase console
+
+## Initialize firebase
+
+```
 $ firebase init
+```
 And choose your project and select Hosting from the CLI tool
 
-Step #4
-Create package.json using
+## Create package.json using
+
+```
 $ npm init
+```
+
 Once the package.json created add the following component on the JSON under scripts
 "build:production": "node --version",
 "build:prod": "node --version",
 The final package.json will look like this
 
+```json
 package.json
 {
   "name": "cicd",
@@ -43,9 +50,14 @@ package.json
   },
   "homepage": "https://github.com/muthugit/cicd#readme"
 }
-Step #5
-Create the workflow file (main.yml) on the following directory
+```
+
+## Create the workflow file (main.yml) on the following directory
+```
 $ <root directory>/.github/workflows
+```
+
+```yml
 main.yml
 name: FIREBASE-DEPLOY
 
@@ -76,13 +88,17 @@ jobs:
       env:
 
         FIREBASE_TOKEN: ${{ secrets.FIREBASE_TOKEN }}
-Step #6
-Get the Firebase token by running this
+```
+
+## Get the Firebase token by running this
+```
 $ firebase login:ci
-Step #7
-Goto GITHUB.com and navigate to your repository
+```
+
+
+## Goto GITHUB.com and navigate to your repository
 Goto Settings -> Secrets
 Create new secret
 Copy the secret generated on the previous step and name the secret as FIREBASE_TOKEN
-Step #8
-Thats it! Just push your code. This will deploy the PUBLIC folder to firebase hosting
+
+## Thats it! Just push your code. This will deploy the PUBLIC folder to firebase hosting
