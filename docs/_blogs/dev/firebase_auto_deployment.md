@@ -1,4 +1,7 @@
-# Steps to auto Firebase deployment using GITHUB Actions (CI/CD)
+---
+title: Steps to auto Firebase deployment using GITHUB Actions (CI/CD)
+description: Firebase deployment
+---
 
 Step #1
 Create a GITHUB repository
