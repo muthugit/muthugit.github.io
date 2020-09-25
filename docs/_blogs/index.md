@@ -15,3 +15,9 @@
 `dev` `analytics`
 
 ---
+
+
+## [:octicons-graph-24: Why to do Sales analysis?](https://medium.com/@muthupandian/why-to-do-sales-analysis-64ceece59158){:target="_blank"}
+`business` `analytics`
+
+---
