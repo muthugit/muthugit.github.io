@@ -1,3 +1,4 @@
+# Pythonista > Usage of `global` variable
 ## What is `global` keyword?
 It is used to assign the value for the variable outside the scope
 
