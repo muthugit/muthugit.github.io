@@ -27,6 +27,22 @@ def first_logic(self, param1):
     return None
 ```
 
-```
+## Static method
 
+```python
+@staticmethod
+def static_method(param1):
+    """Static method used to run a specific function while creating the instance
+    We can't access any of the class instance using `self` keyword here
+
+    :param param1: The parameter to the method
+    :type param1: <the data type of the parameter>
+
+    :returns: This function will return the output of the logic
+    :rtype: The return type of the function
+    """"
+    # Your business logic here
+    return None
+
+```
 
