@@ -1,6 +1,12 @@
 # Blogs
 
 
+
+## [:octicons-people-24: My `pair_programming_experiences`](https://medium.com/muthetechie/my-pair-programming-experience-s-82c8224752c0){:target="_blank"}
+`design` `dev`
+
+---
+
 ## [:octicons-plug-24: Steps to auto Firebase deployment using GITHUB Actions (CI/CD)](dev/firebase_auto_deployment.md)
 `ci/cd` `dev`
 
