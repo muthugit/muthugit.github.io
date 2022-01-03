@@ -1,5 +1,5 @@
 site_name: Muthu
-copyright: "Copyright &copy; 2020 Muthupandian Thangarajan"
+copyright: "Copyright &copy; 2021 Muthupandian Thangarajan"
 theme:
   font:
     text: Roboto
@@ -23,6 +23,10 @@ extra_css:
 extra_javascript:
   - https://unpkg.com/mermaid@7.1.2/dist/mermaid.min.js
 google_analytics: ['UA-60832787-1', 'muthupandian.in']
+extra:
+  analytics:
+    provider: google
+    property: UA-60832787-1
 markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
