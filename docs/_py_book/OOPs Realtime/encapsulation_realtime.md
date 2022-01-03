@@ -1,9 +1,3 @@
----
-description: Encapsulation = wrapping the data
-cover: ../.gitbook/assets/1_NfKsxc0DeQLDYOfltRNAXw (1).jpeg
-coverY: 0
----
-
 # Encapsulation in realtime
 
 The OOPs the usage of encapsulation is very normal and easy. It is important to access the value of the variable through the function.
