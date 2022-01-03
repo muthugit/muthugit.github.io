@@ -37,6 +37,35 @@ In this example, both the `get` and `set` functions updating the original `self.
 
 
 
-### Using @property to replace custom \`get\` and \`set\` functions
+### Using property decorator to replace custom \`get\` and \`set\` functions
 
 Usage example:
+
+```python
+class EncapsulationExample:
+    def __init__(self, var1):
+        self._var1 = var1
+  
+    @property
+    def var1(self):
+        print("Returning property value")
+        return self._var1
+
+    @var1.setter
+    def var1(self, var1):
+        print(f"Setting property value => {var1}")
+        self._var1 = var1
+    
+
+if __name__ == "__main__":
+    ec = EncapsulationExample(var1="demo")
+    print(ec.var1)
+    ec.var1="second value"
+```
+
+This will return
+```
+Returning property value
+demo
+Setting property value => second value
+```
