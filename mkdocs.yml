@@ -1,12 +1,19 @@
-site_name: muthu
+site_name: Muthu
 copyright: "Copyright &copy; 2020 Muthupandian Thangarajan"
 theme:
+  font:
+    text: Roboto
   name: material
   # palette:
   #   primary: yellow
   #   accent: indigo
   features:
     - tabs
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
   feature:
     tabs: true
 extra_css:

@@ -1,4 +1,9 @@
-# projects
+---
+hide:
+  - navigation
+---
+
+# 💰 Projects
 
 ### Dagster workflow engine
 Apr 2020 – Present

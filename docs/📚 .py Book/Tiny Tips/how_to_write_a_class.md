@@ -1,4 +1,4 @@
-# :pythonista: How to write a class in python?
+# How to write a class in python?
 ## Why we need a class instead of a function?
 The main difference between a function and a class is that, using classes we can create multiple instances but using function we can run the same function with different parameters.
 

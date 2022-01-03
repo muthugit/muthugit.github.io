@@ -1,4 +1,9 @@
-# why muthu?
+---
+hide:
+  - navigation
+---
+
+# 🙋🏻‍♂️ About me
 !!! summary "current_position"
     *Director of Technology* at [Whirldata Inc.,](https://whirldatascience.com)
 
