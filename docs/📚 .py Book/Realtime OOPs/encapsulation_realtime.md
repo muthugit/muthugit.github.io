@@ -1,4 +1,4 @@
-# Encapsulation in realtime
+# Encapsulation - realtime usage
 
 The OOPs the usage of encapsulation is very normal and easy. It is important to access the value of the variable through the function.
 
