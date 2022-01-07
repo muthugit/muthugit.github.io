@@ -8,6 +8,8 @@ repo_url: https://github.com/muthugit/muthugit.github.io
 edit_uri: ""
 
 theme:
+  icon:
+    logo: material/human-hello-variant
   font:
     text: Roboto
   name: material
