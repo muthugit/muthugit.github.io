@@ -8,8 +8,6 @@ repo_url: https://github.com/muthugit/muthugit.github.io
 edit_uri: ""
 
 theme:
-  icon:
-    logo: 🙋🏻‍♂️
   font:
     text: Roboto
   name: material
