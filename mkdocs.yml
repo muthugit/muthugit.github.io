@@ -1,5 +1,12 @@
 site_name: Muthu
+site_author: Muthu
 copyright: "Copyright &copy; 2022 Muthupandian Thangarajan"
+
+# Repository
+repo_name: muthugit/muthugit.github.io
+repo_url: https://github.com/muthugit/muthugit.github.io
+edit_uri: ""
+
 theme:
   font:
     text: Roboto
