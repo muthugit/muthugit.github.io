@@ -4,12 +4,10 @@ hide:
 ---
 
 # 🙋🏻‍♂️ About me
-!!! summary "current_position"
-    *Director of Technology* at [Whirldata Inc.,](https://whirldatascience.com)
 
 {==
 
-:wave: I am a `Full Stack Software Engineer` based in Madurai, India, specializing in building applications for the Industries. Good experience on major :cloud: platforms
+# :wave: I'm Muthu, Software Engineer and :cloud: expert
 
 ==}
 
