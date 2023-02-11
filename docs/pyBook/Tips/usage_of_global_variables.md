@@ -1,4 +1,5 @@
 ---
+title: Usage of global variable
 tags:
   - python
   - tips
