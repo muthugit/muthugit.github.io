@@ -1,6 +1,7 @@
 site_name: Muthupandian
 site_author: Muthu
 copyright: "Copyright &copy; 2022 Muthupandian Thangarajan"
+site_url: https://muthupandian.in
 
 # Repository
 repo_name: muthugit/muthugit.github.io
