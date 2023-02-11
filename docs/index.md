@@ -1,7 +1,7 @@
----
+<!-- ---
 hide:
   - navigation
----
+--- -->
 
 # About me
 

@@ -15,10 +15,10 @@ theme:
   name: material
   palette:
     primary: black
-    # accent: blcak
+    accent: grey
   features:
     - tabs
-    - navigation.tabs
+    # - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.indexes 
     - navigation.path
