@@ -39,7 +39,7 @@ google_analytics: ['UA-60832787-1', 'muthupandian.in']
 extra:
   analytics:
     provider: google
-    property: H1XE5TWYYB
+    property: G-H1XE5TWYYB
     # property: UA-60832787-1
 markdown_extensions:
   - pymdownx.emoji:
