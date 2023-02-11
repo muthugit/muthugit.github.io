@@ -2,4 +2,4 @@
 exclude_from_blog: true
 ---
 
-{{ blog_content pyBook}}
+{{ blog_content thoughts}}

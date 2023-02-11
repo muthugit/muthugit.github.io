@@ -1,6 +1,8 @@
 ---
-hide:
-  - toc
+tags:
+  - python
+  - pandas
+  - tips
 ---
 
 # Load CSV without replacing empty value to `nan`

@@ -14,18 +14,26 @@ plugins:
         tags: {}
       dirs: # The directories to be included
         - blog
+        # - pyBook
 
       categories:
         # {{ blog_content pyBook }}
         - name: pyBook
           sort: 
-            from: new
+            from: old
+            by: creation 
           show_total: true
           # theme:             # Use a predefined theme
           #   name: card
           dirs:
             - pyBook/OOPs
             - pyBook/Tips
+        - name: thoughts
+          sort:
+            from: new
+          show_total: true
+          dirs: 
+            - thoughts
 
 theme:
   font:

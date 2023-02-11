@@ -1,3 +1,8 @@
+---
+tags:
+  - python
+  - tips
+---
 # Read JSON file in Python
 
 ```python

@@ -1,6 +1,9 @@
 ---
 title: Steps to auto Firebase deployment using GITHUB Actions (CI/CD)
 description: Firebase deployment
+tags:
+  - devops
+  - ci/cd
 ---
 
 # :octicons-plug-24: Steps to auto Firebase deployment using GITHUB Actions (CI/CD)

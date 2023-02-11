@@ -1,7 +1,7 @@
 ---
 tags:
-  - mkdocs
-  - blogging
+  - python
+  - oops
 ---
 
 # Encapsulation - realtime usage
