@@ -1,7 +1,7 @@
 ---
 title: My pair programming experience
 description: I am sharing my experience in pair-programming in different proejcts
-# read_time: 4m
+read_time: 4m
 publish_date: 2023-01-01
 tags:
     - devlife

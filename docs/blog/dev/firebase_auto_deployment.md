@@ -1,8 +1,6 @@
 ---
 title: Steps to auto Firebase deployment using GITHUB Actions (CI/CD)
 description: Firebase deployment
-read_time: 4m
-publish_date: 2023-01-01
 tags:
   - devops
   - ci/cd
