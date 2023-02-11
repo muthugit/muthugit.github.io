@@ -9,6 +9,7 @@ repo_url: https://github.com/muthugit/muthugit.github.io
 edit_uri: ""
 
 plugins:
+  - search
   - git-revision-date-localized:
       type: timeago
       timezone: Asia/Calcutta
