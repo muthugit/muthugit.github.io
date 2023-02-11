@@ -101,6 +101,14 @@
 
 <!-- Content -->
 {% block content %}{% endblock %}
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-H1XE5TWYYB"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
+  gtag('config', 'G-H1XE5TWYYB');
+</script>
 <!-- Application footer -->
 {% block footer %}{% endblock %}
