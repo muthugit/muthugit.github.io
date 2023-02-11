@@ -11,6 +11,8 @@ edit_uri: ""
 plugins:
   - git-revision-date-localized:
       type: timeago
+      timezone: Asia/Calcutta
+      enable_creation_date: true
       exclude:
           - index.md
   - blogging:
