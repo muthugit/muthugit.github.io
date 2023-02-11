@@ -1,4 +1,4 @@
-site_name: 🙋🏻‍♂️ Muthu
+site_name: Muthupandian
 site_author: Muthu
 copyright: "Copyright &copy; 2022 Muthupandian Thangarajan"
 
@@ -10,17 +10,23 @@ edit_uri: ""
 theme:
   font:
     text: Roboto
-  name: material
   # palette:
-  #   primary: yellow
-  #   accent: indigo
+  #   primary: black
+  name: material
+  palette:
+    primary: black
+    # accent: blcak
   features:
     - tabs
     - navigation.tabs
-    - navigation.tabs.sticky
+    # - navigation.tabs.sticky
+    - navigation.indexes 
+    - navigation.path
     - navigation.sections
     - navigation.expand
     - navigation.top
+    - toc.integrate
+    # - header.autohide
   feature:
     tabs: true
 extra_css:

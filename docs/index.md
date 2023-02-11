@@ -3,13 +3,15 @@ hide:
   - navigation
 ---
 
-# 🙋🏻‍♂️ About me
+# About me
 
 {==
 
 # :wave: I'm Muthu, Software Engineer and :cloud: expert
 
 ==}
+
+
 
 My goal is to build strong {==`backend`==} system and create beautiful {==`frontend`==} system with aggressive {==`project_management`==} & {==`team_management`==} that provides fast, secure and clean products.
 
