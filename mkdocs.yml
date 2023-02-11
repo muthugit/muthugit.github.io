@@ -20,8 +20,8 @@ plugins:
           sort: 
             from: new
           show_total: true
-          theme:             # Use a predefined theme
-            name: card
+          # theme:             # Use a predefined theme
+          #   name: card
           dirs:
             - pyBook/OOPs
             - pyBook/Tips
