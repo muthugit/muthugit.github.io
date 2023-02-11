@@ -28,6 +28,7 @@ A **digital space** in an online space with blogs, notebooks, experiences and pr
 
 Here are some of my favorite sections of this blog
 
+- [Blog](blog/)
 - [Python examples](pyBook/)
 - [Thoughts](thoughts/)
 

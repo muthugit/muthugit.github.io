@@ -41,6 +41,7 @@ theme:
   # palette:
   #   primary: black
   name: material
+  custom_dir: docs/overrides
   palette:
     primary: black
     accent: grey
