@@ -32,6 +32,11 @@ Here are some of my favorite sections of this blog
 - [Python examples](pyBook/)
 - [Thoughts](thoughts/)
 
+---
+
+[Follow me on Linkedin](https://www.linkedin.com/in/muthupandiant/){ .md-button }
+
+
 <!-- ## :hammer: techonologies worked
 
 ### programming_languages
