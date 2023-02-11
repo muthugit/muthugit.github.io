@@ -7,6 +7,25 @@ repo_name: muthugit/muthugit.github.io
 repo_url: https://github.com/muthugit/muthugit.github.io
 edit_uri: ""
 
+plugins:
+  - blogging:
+      features:
+        tags: {}
+      dirs: # The directories to be included
+        - blog
+
+      categories:
+        # {{ blog_content pyBook }}
+        - name: pyBook
+          sort: 
+            from: new
+          show_total: true
+          theme:             # Use a predefined theme
+            name: card
+          dirs:
+            - pyBook/OOPs
+            - pyBook/Tips
+
 theme:
   font:
     text: Roboto
@@ -18,7 +37,7 @@ theme:
     accent: grey
   features:
     - tabs
-    - navigation.instant
+    # - navigation.instant
     # - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.indexes 

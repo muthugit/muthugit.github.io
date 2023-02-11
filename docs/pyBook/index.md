@@ -1,3 +1,1 @@
-# Py Book
-
-[TOC]
+{{ blog_content pyBook}}
