@@ -18,6 +18,7 @@ theme:
     accent: grey
   features:
     - tabs
+    - navigation.instant
     # - navigation.tabs
     # - navigation.tabs.sticky
     - navigation.indexes 
@@ -26,6 +27,7 @@ theme:
     - navigation.expand
     - navigation.top
     - toc.integrate
+    - navigation.footer
     # - header.autohide
   feature:
     tabs: true

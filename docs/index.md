@@ -5,20 +5,16 @@ hide:
 
 # :wave:
 
-<!-- {== -->
 
-#  I'm Muthu and welcome to my digital space
+#  I'm Muthu and welcome to my **digital space**
 
-<!-- ==} -->
-
-
-
-My goal is to build strong {==`backend`==} system and create beautiful {==`frontend`==} system with aggressive {==`project_management`==} & {==`team_management`==} that provides fast, secure and clean products.
-
-[Download resume](http://bit.ly/muthuResumePDF){: .md-button }
-<!-- [Subscribe to our mailing list](#){: .md-button } -->
+A **digital space** in an online space with blogs, notebooks, experiences and projects
 
 ---
+
+<!-- [Download resume](http://bit.ly/muthuResumePDF){: .md-button } -->
+
+<!-- ---
 ## :mailbox_closed: contact me
 
 !!! note ""
@@ -28,9 +24,14 @@ My goal is to build strong {==`backend`==} system and create beautiful {==`front
     Mobile  : +91-98436-65267
     ```
 
----
+--- -->
 
-## :hammer: techonologies worked
+Here are some of my favorite sections of this blog
+
+- [Python examples](pybook)
+- [Useful python tips](pybook/Tips)
+
+<!-- ## :hammer: techonologies worked
 
 ### programming_languages
 - [x] Python
@@ -66,5 +67,5 @@ My goal is to build strong {==`backend`==} system and create beautiful {==`front
 
 ## other_interests
 - [x] Print media Graphic Designing
-- [x] Training Freshers
+- [x] Training Freshers -->
 
