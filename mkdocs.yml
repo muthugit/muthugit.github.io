@@ -13,6 +13,8 @@ plugins:
       type: timeago
       timezone: Asia/Calcutta
       enable_creation_date: true
+      locale: en
+      enabled: true
       exclude:
           - index.md
   - blogging:
