@@ -9,6 +9,7 @@ repo_url: https://github.com/muthugit/muthugit.github.io
 edit_uri: ""
 
 plugins:
+  - git-revision-date-localized
   - blogging:
       features:
         tags: {}
