@@ -2,6 +2,15 @@
 
 # Projects
 
+### [Open Source] Airtable ORM
+Oct 2022
+
+Created the python package called `airtable-orm` to act as the Object Relational Model for the Airtable. It helps the developers to query data from Airtable to python objects.
+
+Ref: [https://pypi.org/project/airtable-orm/](https://pypi.org/project/airtable-orm/)
+
+---
+
 ### Dagster workflow engine
 Apr 2020 – Present
 
