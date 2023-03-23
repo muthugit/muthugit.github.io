@@ -2,6 +2,13 @@
 
 # Projects
 
+### [Proof of Concept] Celery - Redis - Airflow
+Oct 2022
+
+The objective of this PoC is to trigger a Airflow pipeline when new message send to Redis queue
+
+Ref: [https://github.com/muthugit/event-driven-celery-redis-airflow](https://github.com/muthugit/event-driven-celery-redis-airflow)
+
 ### [Open Source] Airtable ORM
 Oct 2022
 
