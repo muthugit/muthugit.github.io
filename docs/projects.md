@@ -2,12 +2,26 @@
 
 # Projects
 
+### Azure function orchestration based ETL
+Feb 2023
+
+Worked on Azure function (function, durable function, activity function) to orchestrate the activities to perform the ETL process.
+
+Triggers worked on
+1. HTTP Trigger
+2. Blob Event Trigger
+
+
+---
+
 ### [Proof of Concept] Celery - Redis - Airflow
 Oct 2022
 
 The objective of this PoC is to trigger a Airflow pipeline when new message send to Redis queue
 
 Ref: [https://github.com/muthugit/event-driven-celery-redis-airflow](https://github.com/muthugit/event-driven-celery-redis-airflow)
+
+---
 
 ### [Open Source] Airtable ORM
 Oct 2022
@@ -19,7 +33,7 @@ Ref: [https://pypi.org/project/airtable-orm/](https://pypi.org/project/airtable-
 ---
 
 ### Dagster workflow engine
-Apr 2020 – Present
+Apr 2020
 
 Creating independent Dagster solids for the client's specific operations. Also, creating pipelines with the Dagster solids to complete the workflow.
 
